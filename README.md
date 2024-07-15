@@ -11,8 +11,8 @@ AI agent's heuristic purposely omitted.
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"
-      width="40"
-      height="40"
+      width="70"
+      height="70"
       alt="cplusplus"
     /></a>
 </p>
